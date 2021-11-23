@@ -1,5 +1,5 @@
 {
-  "name": "subtitle",
+  "name": "@dmitrio/subtitle",
   "version": "4.1.1",
   "description": "Stream-based library for parsing and manipulating subtitles",
   "repository": {
@@ -57,7 +57,7 @@
     "trailingComma": "none"
   },
   "author": "Guilherme Santiago",
-  "module": "dist/subtitle.esm.js",
+  "module": "https://github.com/dimabory/subtitle.js/commit/c353074e1f6a4fdbf0d0921e920aef8f7c36d87c",
   "devDependencies": {
     "@types/split2": "^2.1.6",
     "husky": "^4.2.5",
